@@ -14,4 +14,4 @@ It can plot the following graphs:
 
 Later on, if required you can save those graphs in png format (in the directory where the python code runs).
 
-For demo video follow the link: 
+For demo video follow the link: [Video Link](https://www.linkedin.com/posts/sailesh-bhoite_techmindsmarathon-techminds-activity-7267065711779328000-Dac8?utm_source=share&utm_medium=member_desktop)
